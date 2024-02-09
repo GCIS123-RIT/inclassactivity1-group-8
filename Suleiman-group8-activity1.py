@@ -1,7 +1,7 @@
 #Suleiman Samantar, Suleiman Alnsour,Maxim 
 import turtle
 
-"""This sets the position of teh turtle according to x and y coordinates"""
+"""This sets the position of the turtle according to x and y coordinates"""
 def setPos(turta, x,y):
     turta.penup() 
     turta.goto(x,y) # moves to given coordinates
